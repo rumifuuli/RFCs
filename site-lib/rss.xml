@@ -1,0 +1,38 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[000 brain extension]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>000 brain extension</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 15 Oct 2025 19:53:02 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 15 Oct 2025 19:53:01 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[RFC 0003 documentation conventions]]></title><description><![CDATA[Introduction of the RFC format.Direct quote from Network Working Group's original RFC 3 (from <a rel="noopener nofollow" class="external-link is-unresolved" href="https://doi.org/10.17487/RFC0003" target="_self">https://doi.org/10.17487/RFC0003</a>):
+The content of a NWG note may be any thought, suggestion, etc. related to the HOST software or other aspect of the network. Notes are encouraged to be timely rather than polished. Philosophical positions without examples or other specifics, specific suggestions or implementation techniques without introductory or background explication, and explicit questions without any attempted answers are all acceptable. The minimum length for a NWG note is one sentence.
+These standards (or lack of them) are stated explicitly for two reasons. First, there is a tendency to view a written statement as ipso facto authoritative, and we hope to promote the exchange and discussion of considerably less than authoritative ideas. Second, there is a natural hesitancy to publish something unpolished, and we hope to ease this inhibition.
+I will follow their lead and merely repurpose their standards for my own purposes.By doing this, I wish to be more organized and keep a better record of my work. Also, generally, i am not tempted to write most of the days. With rfcs, i expect to be more writeative (instead of talkative).I expect to record several things in my RFC's:
+following trails of research
+short philosophical positions
+a record of what i do in other places than my rfcs
+general organizational directives and records
+formal structure of my theories
+I will probably not record such things in my RFC's:
+most philosophical argumentation outside of its mere statement
+any research that is better presented in a proper research paper format (these two i like less than an rfc format for philosophical communication)
+anything that fits a better structure (like class notes)
+any fiction writing
+journalistic writing like recording emotions or events the day; they are better suited for a journal
+Different from what i am able to do and write, these rfcs will enable me to:
+determine a theme for an rfc and write an organized short document of thoughts or report in a timely manner
+do not be scared from future revisions and not give up timeliness
+feel like a cool person because i am writing formal documents based on standards and protocols (i actually already feel like this based on other similar stuff i do)
+Other notes planned are on
+planned notes
+]]></description><link>rfc-0003-documentation-conventions.html</link><guid isPermaLink="false">20-29 codex/RFC codex/RFC 0003 documentation conventions.md</guid><pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate></item><item><title><![CDATA[RFC 0001]]></title><description><![CDATA[repurposed from N3 log 1 as RFC 0001 on 2025-10-153 different writing styles in the same writing.
+scientific god
+pure/brutal experience
+symbolic
+scientific god is objective to a radical extent.pure experience is harder and it seems to me that best way of representing pure experience in writing is through poetic writing.symbolics is complicated in its relation to and difference from pure experience. i always imagine some hindu gods almost playing in a cosmic theatre what is happening in reality. perhaps this is the conceptual realm that some philosophers get caught in and my mind appended hindu gods to them because of their conceptual representative nature.i think these three writing styles are key and play a huge part in any fictional writing. if not, they should because they seem to represent real distinctions in representation.
+i will try to use these as an intentional feature in my fictional writings.]]></description><link>rfc-0001.html</link><guid isPermaLink="false">20-29 codex/RFC codex/RFC 0001.md</guid><pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate></item><item><title><![CDATA[RFC 0002]]></title><description><![CDATA[repurposed from Q1 as RFC 0002 on 2025-10-15T1: french 1
+T2: econ221
+T3: physics
+T4: altar
+T5: sketchbook
+T6: poems
+T7: the sourceN1: home desk
+N2: prev planner
+N3: obsidian
+N4: ankara üni defterQ1: master codex
+Q2: self-debugging procedures
+Q3: tech guidelinesX1: omni-logicC1: the case for normativityRFC Codex: obsidian]]></description><link>rfc-0002.html</link><guid isPermaLink="false">20-29 codex/RFC codex/RFC 0002.md</guid><pubDate>Wed, 15 Oct 2025 19:02:02 GMT</pubDate></item></channel></rss>
